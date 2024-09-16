@@ -357,8 +357,7 @@ async def language_check(bot, query):
     btn.insert(0, [
         InlineKeyboardButton("⚡ ᴄʜᴇᴄᴋ ʙᴏᴛ ⚡", url=f"https://t.me/{temp.U_NAME}")
     ])
-
-        if offset != "":
+    if offset != "":
             key = f"{query.message.chat.id}-{query.message.id}"
             BUTTONS[key] = movie
             req = userid
