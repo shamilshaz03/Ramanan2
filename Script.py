@@ -10,7 +10,7 @@ class script(object):
     SOURCE_TXT = """<b>ɴᴏᴛᴇ:
 - ᴛʜɪꜱ ʙᴏᴛ ɪꜱ ᴀ ᴘʀɪᴠᴀᴛᴇ ꜱᴏᴜʀᴄᴇ ᴘʀᴏᴊᴇᴄᴛ.
 - ꜱᴏᴜʀᴄᴇ - <blockquote><a href="https://telegra.ph/file/43041318ed948f2cf867c.mp4">ᴀᴜᴛᴏ ꜰɪʟᴛᴇʀ ʙᴏᴛ</a></blockquote>
-Dᴇᴠᴇʟᴏᴘᴇʀ:
+ᴅᴇᴠᴇʟᴏᴘᴇʀ:
 - <a href="https://t.me/movieverse_links">ᴍᴏᴠɪᴇ ᴠᴇʀꜱᴇ</a></b>"""
 
     MANUELFILTER_TXT = """ʜᴇʟᴘ: <b>ꜰɪʟᴛᴇʀꜱ</b>
